@@ -41,6 +41,7 @@
     <Content Include="start.html" />
     <Content Include="start_c_1.html" />
     <Content Include="start_g_0.html" />
+    <Content Include="test.html" />
     <Content Include="turf_artwork.html" />
     <Content Include="turf_project.html" />
     <Content Include="wayna_project.html" />
